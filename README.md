@@ -4,8 +4,8 @@
 
 ## :man_technologist: About Me
 - **Name**: Aaditya R. Bhat
-- **Profession**: Cybersecurity Specialist & Software Developer
-- **Area of Expertise**: Cybersecurity, Software Development
+- **Age**: 16
+- **Aspirations/Expertise**: Cybersecurity, Software Development
 
 ## :joystick: Hobbies
 - Playing Video Games 🎮
