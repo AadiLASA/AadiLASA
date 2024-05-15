@@ -4,7 +4,7 @@
 
 ## :man_technologist: About Me
 - **Name**: Aaditya R. Bhat
-- **Age**: 16
+- **Age**: 17
 - **Aspirations/Expertise**: Cybersecurity, Software Development
 
 ## :joystick: Hobbies
