@@ -2,12 +2,12 @@
 
 # Welcome to Aaditya R. Bhat's GitHub!
 
-## :man_technologist: About Me
+## About Me
 - **Name**: Aaditya R. Bhat
 - **Age**: 17
 - **Aspirations/Expertise**: Cybersecurity, Software Development
 
-## :mortar_board: Currently Learning
+## Currently Learning
 - Assembly Language
 - Reverse Engineering
 - Binary Exploitation
