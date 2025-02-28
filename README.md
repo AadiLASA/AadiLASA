@@ -7,20 +7,11 @@
 - **Age**: 17
 - **Aspirations/Expertise**: Cybersecurity, Software Development
 
-## :joystick: Hobbies
-- Playing Video Games 🎮
-- Engaging in Chess ♟️
-
 ## :mortar_board: Currently Learning
 - Assembly Language
 - Reverse Engineering
 - Binary Exploitation
 - PowerShell Scripting
-
-## :hammer_and_wrench: Tools & Technologies
-- :shield: Cybersecurity Tools
-- :computer: Various Programming Languages
-- :gear: Advanced Development Techniques
 
 ### Feel free to connect with me or explore my repositories!
 
