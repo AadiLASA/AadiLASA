@@ -4,7 +4,7 @@
 
 ## About Me
 - **Name**: Aaditya R. Bhat
-- **Age**: 17
+- **Age**: 18
 - **Aspirations/Expertise**: Cybersecurity, Software Development
 
 ## Currently Learning
